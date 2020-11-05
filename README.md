@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning Python and Data Science
 
 <!--
 **iAnd1710/iAnd1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
