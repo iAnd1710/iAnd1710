@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=iAnd1710&hide=stars,issues&show_icons=true&theme=dark)](https://github.com/iAnd1710)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnd1710&layout=compact)](https://github.com/iAnd1710)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAnd1710&langs_count=8)](https://github.com/iAnd1710)
+
