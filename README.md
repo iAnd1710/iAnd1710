@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 • Python
-
 • VueJS
-
 • Flutter
-
 • PostgreSQL
 • MongoDB
 <!--
