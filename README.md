@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🎓 Studying Mechatronics Engineering at FIAP
+- 🎓 Studying **Mechatronics Engineering** at FIAP
 - 💼 Co-founder of [Apptime](https://apptime.com.br/)
 
 
