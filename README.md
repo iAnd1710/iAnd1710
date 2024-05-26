@@ -33,12 +33,6 @@ Here are some ideas to get you started:
 <br /> 
 <br />
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iAnd1710&show_icons=true&count_private=true&theme=tokyonight&text_color=ffffff&hide_border)](https://github.com/iAnd1710)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAnd1710&theme=tokyonight&text_color=ffffff&layout=compact&hide_border)](https://github.com/iAnd1710)" />
-</a>
 
 ## 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
